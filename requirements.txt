@@ -2,6 +2,3 @@ python-dotenv
 langchain
 openai
 streamlit
-
-pip install python-dotenv langchain openai streamlit
-streamlit run main.py
